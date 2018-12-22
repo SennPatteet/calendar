@@ -1,0 +1,178 @@
+.container {
+  margin: 0 auto;
+  width: 40%;
+  text-align: center;
+  margin-top: 50px;
+  color: #ffffff;
+}
+
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
+}
+
+html {
+  scroll-behavior: auto;
+}
+
+/* --------------------------------- BACKGROUND COLORS --------------------------------- */
+
+.bg{
+  display: inline-block;
+  background-color: #637140;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg2 {
+  display: inline-block;
+  background-color: #651D35;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg3 {
+  display: inline-block;
+  background-color: #1F3C65;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg4 {
+  display: inline-block;
+  background-color: #A19E39;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg5 {
+  display: inline-block;
+  background-color: #3EA198;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg6 {
+  display: inline-block;
+  background-color: #8E489F;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg7 {
+  display: inline-block;
+  background-color: #9F401C;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg8 {
+  display: inline-block;
+  background-color: #A04499;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg9 {
+  display: inline-block;
+  background-color: #939698;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg10 {
+  display: inline-block;
+  background-color: #71442E;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg11 {
+  display: inline-block;
+  background-color: #CD701C;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg12 {
+  display: inline-block;
+  background-color: #1B6C71;
+  width: 100vw;
+  height: 100vh;
+}
+
+
+/* --------------------------------- MONTH AND YEAR --------------------------------- */
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+  margin: 0;
+  padding-top: 30px;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
+  margin: 0;
+  margin-bottom: 50px;
+}
+
+/* --------------------------------- WEEKDAYS AND DATES --------------------------------- */
+
+.weekdays {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.weekdays li {
+  display: inline-block;
+  width: 13.6%;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.days {
+  padding: 10px 0;
+  margin: 0;
+}
+
+.days li {
+  list-style-type: none;
+  display: inline-block;
+  width: 13.6%;
+  text-align: center;
+  margin-bottom: 5px;
+  font-size:12px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
+  line-height: 4;
+}
+
+
+/* --------------------------------- BUTTON --------------------------------- */
+
+i {
+  padding: 10px;
+  font-size: 1.5em;
+}
+
+
+a {
+  color: #ffffff;
+  margin: 0px;
+}
+
+span {
+  opacity: 0;
+}
+
+/* --------------------------------- BIRTHDAYS --------------------------------- */
+
+.pauline {
+  background-color: #363D25;
+}
+
+.pauline:hover {
+  background-color: #A7BB73;
+}
