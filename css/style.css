@@ -175,4 +175,16 @@ span {
 
 .pauline:hover {
   background-color: #A7BB73;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.senn {
+  background-color: #626465;
+}
+
+.senn:hover {
+  background-color: #DDE1E4;
+  color: #000000;
 }

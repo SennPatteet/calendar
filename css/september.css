@@ -1,0 +1,21 @@
+#container {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+i {
+  font-size: 4em;
+  margin-top: 150px;
+  color: #626465;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 5em;
+  color: #626465;
+}
+
+body {
+  background-color: #939698;
+}
