@@ -377,3 +377,91 @@ span {
   background-color: #DCE1E4;
   color: #000000;
 }
+
+/* ------------------------------------------------ */
+
+.willem {
+  background-color: #11262E;
+}
+
+.willem:hover {
+  background-color: #49A2C4;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.dominic {
+  background-color: #363D25;
+}
+
+.dominic:hover {
+  background-color: #A7BB73;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.tom {
+  background-color: #363D25;
+}
+
+.tom:hover {
+  background-color: #A7BB73;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.thijs {
+  background-color: #363D25;
+}
+
+.thijs:hover {
+  background-color: #A7BB73;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.shuqin {
+  background-color: #787530;
+}
+
+.shuqin:hover {
+  background-color: #EDE760;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.tim {
+  background-color: #152841;
+}
+
+.tim:hover {
+  background-color: #4583D7;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.sonia {
+  background-color: #214034;
+}
+
+.sonia:hover {
+  background-color: #83FFD0;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.anke {
+  background-color: #3B121F;
+}
+
+.anke:hover {
+  background-color: #B0355D;
+  color: #000000;
+}
