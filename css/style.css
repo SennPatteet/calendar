@@ -54,7 +54,7 @@ html {
 
 .bg6 {
   display: inline-block;
-  background-color: #8E489F;
+  background-color: #1D4352;
   width: 100vw;
   height: 100vh;
 }
@@ -68,21 +68,21 @@ html {
 
 .bg8 {
   display: inline-block;
-  background-color: #A04499;
+  background-color: #939698;
   width: 100vw;
   height: 100vh;
 }
 
 .bg9 {
   display: inline-block;
-  background-color: #939698;
+  background-color: #A04499;
   width: 100vw;
   height: 100vh;
 }
 
 .bg10 {
   display: inline-block;
-  background-color: #71442E;
+  background-color: #65CEA6;
   width: 100vw;
   height: 100vh;
 }
@@ -169,6 +169,8 @@ span {
 
 /* --------------------------------- BIRTHDAYS --------------------------------- */
 
+/* ------------------------------------------------ */
+
 .pauline {
   background-color: #363D25;
 }
@@ -181,10 +183,197 @@ span {
 /* ------------------------------------------------ */
 
 .senn {
-  background-color: #626465;
+  background-color: #6B3266;
 }
 
 .senn:hover {
-  background-color: #DDE1E4;
+  background-color: #E96EDE;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.arno {
+  background-color: #3B121F;
+}
+
+.arno:hover {
+  background-color: #B0355D;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.veronique {
+  background-color: #787530;
+}
+
+.veronique:hover {
+  background-color: #EDE760;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.marianna {
+  background-color: #742F19;
+}
+
+.marianna:hover {
+  background-color: #E95F32;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.maximiliaan {
+  background-color: #6B6D6F;
+}
+
+.maximiliaan:hover {
+  background-color: #DCE1E4;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.carolien {
+  background-color: #3B121F;
+}
+
+.carolien:hover {
+  background-color: #B0355D;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.stefan {
+  background-color: #327871;
+}
+
+.stefan:hover {
+  background-color: #63EDE0;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.alexander {
+  background-color: #693A0F;
+}
+
+.alexander:hover {
+  background-color: #FF8D25;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.kwinten {
+  background-color: #123D40;
+}
+
+.kwinten:hover {
+  background-color: #2F9EA4;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.rawaldeep {
+  background-color: #693A0F;
+}
+
+.rawaldeep:hover {
+  background-color: #FF8D25;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.frank {
+  background-color: #363D25;
+}
+
+.frank:hover {
+  background-color: #A7BB73;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.andy {
+  background-color: #214034;
+}
+
+.andy:hover {
+  background-color: #83FFD0;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.maxence {
+  background-color: #327871;
+}
+
+.maxence:hover {
+  background-color: #63EDE0;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.nory {
+  background-color: #363D25;
+}
+
+.nory:hover {
+  background-color: #A7BB73;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.hicham {
+  background-color: #6B3266;
+}
+
+.hicham:hover {
+  background-color: #E96EDE;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.yerko {
+  background-color: #693A0F;
+}
+
+.yerko:hover {
+  background-color: #FF8D25;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.caroline {
+  background-color: #11262E;
+}
+
+.caroline:hover {
+  background-color: #49A2C4;
+  color: #000000;
+}
+
+/* ------------------------------------------------ */
+
+.aisha {
+  background-color: #6B6D6F;
+}
+
+.aisha:hover {
+  background-color: #DCE1E4;
   color: #000000;
 }
