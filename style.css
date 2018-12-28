@@ -15,6 +15,22 @@ html {
   scroll-behavior: auto;
 }
 
+/* --------------------------------- MONTH AND YEAR --------------------------------- */
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+  margin: 0;
+  padding-top: 30px;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
+  margin: 0;
+  margin-bottom: 50px;
+}
+
 /* --------------------------------- DAY FIX --------------------------------- */
 
 .december {
@@ -86,6 +102,14 @@ html {
   height: 100vh;
 }
 
+.bg9 h2 {
+  margin-bottom: 10px;
+}
+
+.septemberfix {
+  padding:
+}
+
 .bg10 {
   display: inline-block;
   background-color: #65CEA6;
@@ -107,28 +131,11 @@ html {
   height: 100vh;
 }
 
-
-/* --------------------------------- MONTH AND YEAR --------------------------------- */
-
-h1 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-weight: 400;
-  margin: 0;
-  padding-top: 30px;
-}
-
-h2 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-weight: 300;
-  margin: 0;
-  margin-bottom: 50px;
-}
-
 /* --------------------------------- WEEKDAYS AND DATES --------------------------------- */
 
 .weekdays {
   margin: 0;
-  padding: 10px 0;
+  padding: 20px 0;
 }
 
 .weekdays li {
